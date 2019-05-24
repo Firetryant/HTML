@@ -1,0 +1,10 @@
+  天猫商城主界面思路
+  1.一个巨大的div属性为 height=1190 width=4408 设置边框solid 1px color
+  2.190 520 大的div中包含一个左侧的导航div width=190 heighg=520
+   a.div中包含各个商品类的超链接 用ul无序列表 加il加span标签|span 应为il为块级元素默认沾满一行
+  3.中间轮播图为招牌div width=800 height=300
+    a.运用javas知识
+  4.再加上5个200 239的几个展示商品div
+
+  5.最后一个右边其它商品div width=190 height=300px
+  所有div  浮动folat排列
